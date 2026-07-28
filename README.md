@@ -109,3 +109,37 @@ Open `index.html` directly in a browser.
 No build process is required.
 No Node.js installation is required.
 No dependencies need to be installed.
+
+---
+
+## Architecture and Governance
+
+The studio separates partner inputs, maturity scoring, scenario logic, recommendations, roadmap development, governance design, and executive presentation. Final outputs require review by partner, sales, services, finance, legal, and executive stakeholders.
+
+## Deterministic vs. Generated Outputs
+
+**Deterministic or scenario-driven:** maturity and readiness scoring, lifecycle mappings, scenario routing, KPI structure, governance categories, roadmap phases, demo data, and illustrative calculations.
+
+**Recommendation-oriented:** executive summaries, investment and enablement recommendations, risk narratives, roadmap explanations, and operating-model guidance.
+
+## Validation and Quality Controls
+
+Current controls include scenario-specific workflows, structured tabs, consistent maturity presentation, predefined governance/KPI categories, manual scenario testing, responsive testing, and export review.
+
+## Security and Data Handling
+
+The public demo uses fictional partner data. Do not submit confidential partner, pipeline, pricing, contract, customer, employee, or competitive information. The application does not connect to CRM, PRM, CPQ, ERP, or partner systems.
+
+## Testing
+
+Current testing covers scenario selection, navigation, scoring, recommendation rendering, tab consistency, export, and responsive behavior. Production use requires automated scoring, regression, integration, approval-path, accessibility, and security testing.
+
+## Limitations
+
+This is not a production partner-management system. All partner entities, metrics, investments, risks, and outcomes are illustrative. Recommendations do not replace due diligence, financial review, legal review, or executive approval.
+
+## Disclaimer
+
+This project is provided for demonstration and educational purposes and does not constitute legal, financial, commercial, channel, partner, or investment advice.
+
+
