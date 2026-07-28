@@ -2,14 +2,6 @@
 
 Interactive portfolio project by Daniel Mazzini / SolTelCo.
 
-## Open Demo
-
-Live demo:
-
-https://danvzla.github.io/enterprise-partner-lifecycle-studio/
-
-Interactive portfolio project by Daniel Mazzini / SolTelCo.
-
 ## Overview
 
 Enterprise Partner Lifecycle Studio assesses partner readiness across seven lifecycle scenarios, recommends whether to invest, enable, scale, recover, compete, or offboard, and generates executive outputs including maturity scoring, roadmap, governance, KPIs, business case, risks, and execution plan.
@@ -141,5 +133,3 @@ This is not a production partner-management system. All partner entities, metric
 ## Disclaimer
 
 This project is provided for demonstration and educational purposes and does not constitute legal, financial, commercial, channel, partner, or investment advice.
-
-
